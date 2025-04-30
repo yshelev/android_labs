@@ -1,2 +1,2 @@
-# android_labs
-лабораторные работы по Android
+# android lab 2
+вторая лабораторная работа 
